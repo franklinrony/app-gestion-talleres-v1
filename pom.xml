@@ -14,7 +14,7 @@
 	<name>app-gestion-talleres-v1</name>
 	<description>Proyecto Galaxy training curso Spring Boot 2022</description>
 	<properties>
-		<java.version>17</java.version>
+		<java.version>8</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
